@@ -10,7 +10,7 @@
 - TailwindCSS v3.4.13
 
 ## How to use :
-- Configure Connection 
+- Configure Connection koneksi.php
   ```koneksi.php
     <?php
     $server = "127.0.0.1";
