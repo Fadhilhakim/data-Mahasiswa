@@ -8,6 +8,7 @@
 ## Tech stack
 - Bootsrap Icon v1.11.3
 - TailwindCSS v3.4.13
+- MySQL v8.0.30
 
 ## How to use :
 - Configure Connection koneksi.php
