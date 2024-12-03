@@ -74,10 +74,10 @@
                         <?php echo $d['alamat']; ?>
                     </td>
                     <td class=" text-center">
-                            <a href="edit.php?id=<?php echo $d['id']; ?>" class="relative text-center bg-green-800 p-2 text-white px-4 me-2">
+                            <a href="edit.php?id=<?php echo $d['id']; ?>" class="relative text-center text-grey-900 md:bg-green-800 md:p-2 p-1 md:text-white md:px-4 md:me-2">
                                 <i class="bi bi-pencil-square"></i>
                             </a>
-                            <a href="hapus.php?id=<?php echo $d['id']; ?>" class="relative text-center bg-red-800 p-2 text-white px-4">
+                            <a href="hapus.php?id=<?php echo $d['id']; ?>" class="relative text-center text-grey-900 md:bg-red-800 md:p-2 p-1 md:text-white md:px-4">
                                 <i class="bi bi-trash3-fill"></i>
                             </a>
                     </td>
